@@ -1,0 +1,11 @@
+chocolat
+bonbon
+boeuf
+veau
+poisson
+volaille
+poulet
+riz
+pate
+fruit
+pizza
