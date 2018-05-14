@@ -31,7 +31,7 @@ tax_computation/
      |--- test3.txt
      |--- test4.txt
      |--- test_specials.txt
-|--- specials    => 
+|--- specials    =>
      |--- book.txt
      |--- food.txt
      |--- medication.txt
@@ -56,7 +56,7 @@ tests/
 
 ## Dependencies
 
-### Project Dependencies 
+### Project Dependencies
 
 * [Python](https://www.python.org/downloads/) 3.5 >=
 * [Pytest](https://docs.pytest.org/en/latest/) 3.0.7 >=
@@ -64,7 +64,7 @@ tests/
 ## Installation
 
 ##### Clone the project
-`$ git clone https://ladresse_sur_github.com`
+`$ git clone https://github.com/brice4insideboard/techinical_test`
 
 ##### Setting up the environment
 
